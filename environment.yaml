@@ -30,5 +30,3 @@ dependencies:
       - basicsr
       - av
       - onnxruntime==1.16.2
-      - matplotlib-inline
-      - huggingface_hub==0.25.2
